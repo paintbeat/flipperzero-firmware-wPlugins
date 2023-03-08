@@ -35,3 +35,24 @@ Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
+
+Name: eyes
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: omg-happy
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: jimmy-yas
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
