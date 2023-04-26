@@ -1,7 +1,7 @@
 Filetype: Flipper Animation Manifest
 Version: 1
 
-Name: Peek
+Name: peek
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -15,21 +15,28 @@ Min level: 1
 Max level: 30
 Weight: 8
 
-Name: Marin
+Name: marin
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: Kitigawa1
+Name: kitigawa
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
 Max level: 30
 Weight: 8
 
-Name: skirt2
+Name: skirt
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 8
+
+Name: chika
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
@@ -57,7 +64,7 @@ Min level: 1
 Max level: 30
 Weight: 8
 
-Name: betterchika
+Name: hayasaka
 Min butthurt: 0
 Max butthurt: 14
 Min level: 1
